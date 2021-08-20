@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721346794973",
+    "firebase_url": "https://leisure-server.firebaseio.com",
+    "project_id": "leisure-server",
+    "storage_bucket": "leisure-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721346794973:android:adaf8c1efa7c6aa20c5234",
+        "android_client_info": {
+          "package_name": "com.appska.jit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721346794973-llfll842hmb74ur0m5kdki906jhr60mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appska.jit",
+            "certificate_hash": "93661a35a54bf185603ce14af75898ffacf847d8"
+          }
+        },
+        {
+          "client_id": "721346794973-r0g92un53l3tt92919r585l23f707dlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnVX74LbcGQ4IBmL-H81lFk_KlwZVzQK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721346794973-r0g92un53l3tt92919r585l23f707dlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
